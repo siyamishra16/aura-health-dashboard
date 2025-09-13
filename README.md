@@ -47,8 +47,7 @@ The dashboard is structured as a **5-page story-driven report**:
 ---
 
 ## 🚀 How to View the Dashboard
-👉 [View the Interactive Dashboard Here](#)  
-*(Insert your Looker Studio dashboard link in place of `#`)*  
+👉 [[View the Interactive Dashboard Here]](https://lookerstudio.google.com/s/gXn-ipq7YRc) 
 
 ---
 
