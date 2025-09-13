@@ -1,35 +1,64 @@
-# Aura Health: An Analysis of User Activity & Engagement
-Project Overview
-This project is a comprehensive data analysis and visualization dashboard built using Google Looker Studio. The goal was to analyze user activity and engagement data from a 30-day period for a health and wellness app, Aura Health.
+# Aura Health: User Activity & Engagement Analysis
 
-The analysis reveals a significant opportunity for growth by identifying key user segments and uncovering a major trend in user activity. The insights are presented through a 5-page interactive dashboard.
+## 📌 Project Overview
+This project is a **data analysis and visualization dashboard** built using **Google Looker Studio**.  
+The goal was to analyze **user activity and engagement data over a 30-day period** for a health and wellness app, **Aura Health**.  
 
-Key Findings & Insights
-User Segmentation: The user base is almost perfectly divided between two distinct segments: a "Very Active" group and a large "Sedentary" group. This clear division allows for tailored and effective marketing and retention strategies.
+The dashboard provides **interactive insights** into user behavior, highlighting key trends, correlations, and opportunities for growth.
 
-The "Sunday Slump": Analysis revealed a significant drop in average user activity on Sundays, presenting a key opportunity for a targeted engagement campaign to boost weekend activity.
+---
 
-Data Validation: A strong positive correlation (0.59) was found between steps and calories burned, confirming the reliability and consistency of the data collected by the wellness device.
+## 🔑 Key Findings & Insights
+- **User Segmentation:**  
+  The user base is almost evenly split between two distinct groups:  
+  - **Very Active Users**  
+  - **Sedentary Users**  
+  → This clear segmentation enables more **tailored marketing and retention strategies**.  
 
-Actionable Recommendations: The report concludes with three key business recommendations, including a pilot retention program for sedentary users and a gamified campaign to address the "Sunday Slump."
+- **The "Sunday Slump":**  
+  A noticeable **drop in average user activity on Sundays** was identified.  
+  → This trend highlights an opportunity for a **targeted engagement campaign** to improve weekend activity.  
 
-Dashboard Pages
-The dashboard is structured to tell a clear, data-driven story:
+- **Data Validation:**  
+  A **strong positive correlation (0.59)** between steps and calories burned confirms the **reliability and consistency** of the wellness device data.  
 
-Executive Summary: An overview of core metrics and key project takeaways.
+- **Actionable Recommendations:**  
+  - Launch a **pilot retention program** for sedentary users.  
+  - Run a **gamified weekend challenge** to counter the "Sunday Slump".  
+  - Personalize marketing campaigns based on **activity segmentation**.  
 
-Activity & Trends: Visual analysis of daily and weekly activity patterns, highlighting the "Sunday Slump."
+---
 
-Relationships & Correlations: A scatter plot demonstrating the relationship between steps and calories.
+## 📊 Dashboard Pages
+The dashboard is structured as a **5-page story-driven report**:
 
-Audience & Segmentation: A pie chart and summary of the user distribution by activity level.
+1. **Executive Summary** → Core metrics and project takeaways  
+2. **Activity & Trends** → Daily and weekly activity patterns, highlighting the *Sunday Slump*  
+3. **Relationships & Correlations** → Scatter plot showing steps vs. calories  
+4. **Audience & Segmentation** → User distribution pie chart & segmentation summary  
+5. **Recommendations** → Actionable strategies for growth  
 
-Recommendations: A bulleted list of actionable strategies for growth.
+---
 
-Tools & Technologies
-Data Visualization: Google Looker Studio
+## 🛠️ Tools & Technologies
+- **Data Visualization:** Google Looker Studio  
+- **Data Source:** Google Sheets / BigQuery *(proxy for the fitness app’s database)*  
 
-Data Source: Google Sheets / BigQuery (as a proxy for the fitness app's database)
+---
 
-How to View the Dashboard
-The full, interactive dashboard can be viewed live [Insert Link to your published dashboard here]. Alternatively, you can view the key pages in the screenshots folder within this repository.
+## 🚀 How to View the Dashboard
+👉 [View the Interactive Dashboard Here](#)  
+*(Insert your Looker Studio dashboard link in place of `#`)*  
+
+---
+
+## ✨ Author
+**Siya Mishra**  
+B.Tech (AI & ML) | Data Analytics & Visualization Enthusiast  
+
+---
+
+## 📢 Acknowledgments
+This project was inspired by the mission to leverage **data-driven insights** to improve **health & wellness engagement**.
+
+
